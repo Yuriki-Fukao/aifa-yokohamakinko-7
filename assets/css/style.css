@@ -255,7 +255,6 @@ button {
 **********************/
 .main-title {
   margin: 0;
-  position: relative;
 }
 
 .sub-title {
@@ -496,6 +495,9 @@ button {
   position: absolute;
   left: 50%;
   top:50%;
+}
+header-main-content {
+    position: relative;
 }
 /********************
 * Utility

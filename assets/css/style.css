@@ -255,6 +255,7 @@ button {
 **********************/
 .main-title {
   margin: 0;
+  position: relative;
 }
 
 .sub-title {
@@ -491,7 +492,7 @@ button {
   margin: 0;
 }
 .front-char {
-  font: red;
+  color: red;
   position: absolute;
   left: 50%;
   top:50%;

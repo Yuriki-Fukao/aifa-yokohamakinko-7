@@ -490,7 +490,12 @@ button {
   width: 288px;
   margin: 0;
 }
-
+.front-char {
+  font: red;
+  position: absolute;
+  left: 50%;
+  top:50%;
+}
 /********************
 * Utility
 ********************/
